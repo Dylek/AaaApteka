@@ -1,7 +1,7 @@
 \select@language {polish}
 \contentsline {section}{\numberline {1}Streszczenie systemu}{2}
 \contentsline {section}{\numberline {2}Lista obiekt\IeC {\'o}w zewn\IeC {\k e}trznych}{2}
-\contentsline {section}{\numberline {3}Lista bod\IeC {\'z}c\IeC {\'o}w}{2}
-\contentsline {section}{\numberline {4}Diagramy DFD}{2}
-\contentsline {subsection}{\numberline {4.1}Diagram DFD-poziom 0}{2}
-\contentsline {section}{\numberline {5}Bibliografia}{2}
+\contentsline {section}{\numberline {3}Lista zdarze\IeC {\'n}}{2}
+\contentsline {section}{\numberline {4}Diagramy DFD}{3}
+\contentsline {subsection}{\numberline {4.1}Diagram DFD-poziom 0}{3}
+\contentsline {section}{\numberline {5}Bibliografia}{3}
