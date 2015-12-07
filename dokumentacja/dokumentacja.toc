@@ -1,0 +1,4 @@
+\select@language {polish}
+\contentsline {section}{\numberline {1}Streszczenie systemu}{2}
+\contentsline {section}{\numberline {2}Lista bod\IeC {\'z}c\IeC {\'o}w}{2}
+\contentsline {section}{\numberline {3}Diagramy DFD}{2}
