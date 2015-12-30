@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.6)  9 DEC 2015 10:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.6)  30 DEC 2015 21:48
 entering extended mode
 **dokumentacja.tex
 (C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.tex
@@ -475,21 +475,58 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 <zd.PNG, id=21, 589.4522pt x 508.14844pt>
 File: zd.PNG Graphic file (type png)
  <use zd.PNG>
-Package pdftex.def Info: zd.PNG used on input line 154.
+Package pdftex.def Info: zd.PNG used on input line 155.
 (pdftex.def)             Requested size: 353.67404pt x 304.8914pt.
 
 <zd2.PNG, id=23, 906.38625pt x 540.51938pt>
 File: zd2.PNG Graphic file (type png)
  <use zd2.PNG>
-Package pdftex.def Info: zd2.PNG used on input line 156.
+Package pdftex.def Info: zd2.PNG used on input line 157.
 (pdftex.def)             Requested size: 543.83594pt x 324.31412pt.
 
-Overfull \hbox (88.59183pt too wide) in paragraph at lines 156--157
+Overfull \hbox (88.59183pt too wide) in paragraph at lines 157--158
 [] 
  []
 
-[3 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zd.PNG>] [4 <C:/User
-s/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zd2.PNG>]
+[3 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zd.PNG>]
+<zakupLekow.PNG, id=28, 543.53062pt x 344.78813pt>
+File: zakupLekow.PNG Graphic file (type png)
+ <use zakupLekow.PNG>
+Package pdftex.def Info: zakupLekow.PNG used on input line 159.
+(pdftex.def)             Requested size: 326.12088pt x 206.87447pt.
+
+<kontrolaMagazynu.PNG, id=29, 327.47343pt x 341.77687pt>
+File: kontrolaMagazynu.PNG Graphic file (type png)
+
+<use kontrolaMagazynu.PNG>
+Package pdftex.def Info: kontrolaMagazynu.PNG used on input line 161.
+(pdftex.def)             Requested size: 196.48558pt x 205.0677pt.
+ [4 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zd2.PNG> <C:/Users/
+Dylek/Documents/GitHub/AaaApteka/dokumentacja/zakupLekow.PNG>] <zamowienia.PNG,
+ id=35, 482.55281pt x 294.34969pt>
+File: zamowienia.PNG Graphic file (type png)
+
+<use zamowienia.PNG>
+Package pdftex.def Info: zamowienia.PNG used on input line 163.
+(pdftex.def)             Requested size: 289.5339pt x 176.61116pt.
+
+<zarzadzaniePracownikami.PNG, id=36, 658.71094pt x 369.63094pt>
+File: zarzadzaniePracownikami.PNG Graphic file (type png)
+
+<use zarzadzaniePracownikami.PNG>
+Package pdftex.def Info: zarzadzaniePracownikami.PNG used on input line 165.
+(pdftex.def)             Requested size: 395.2296pt x 221.78026pt.
+ [5 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/kontrolaMagazynu.PN
+G> <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zamowienia.PNG>]
+<tworzenieRaportu.PNG, id=40, 527.72156pt x 355.3275pt>
+File: tworzenieRaportu.PNG Graphic file (type png)
+
+<use tworzenieRaportu.PNG>
+Package pdftex.def Info: tworzenieRaportu.PNG used on input line 167.
+(pdftex.def)             Requested size: 316.63538pt x 213.19814pt.
+ [6 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zarzadzaniePracowni
+kami.PNG> <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/tworzenieRapo
+rtu.PNG>] [7]
 (C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -497,10 +534,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 2331 strings out of 493921
- 28440 string characters out of 3147282
- 82353 words of memory out of 3000000
- 5584 multiletter control sequences out of 15000+200000
+ 2356 strings out of 493921
+ 29010 string characters out of 3147282
+ 83353 words of memory out of 3000000
+ 5604 multiletter control sequences out of 15000+200000
  16677 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,5n,24p,327b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -517,9 +554,9 @@ pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \eccc1440.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
 \ec\dpi600\eccc1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb>
-Output written on dokumentacja.pdf (5 pages, 211491 bytes).
+Output written on dokumentacja.pdf (8 pages, 326290 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
+ 393 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
