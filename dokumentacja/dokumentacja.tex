@@ -5,6 +5,7 @@
 \usepackage[T1]{fontenc}
 %\usepackage{times}
 \usepackage{graphicx,wrapfig}
+\usepackage{pdfpages}
 %\usepackage{anysize}
 %\usepackage{tikz}
 %\usetikzlibrary{calc,through,backgrounds,positioning}
@@ -184,11 +185,12 @@ Paweł \textsc{Ogorzały} \\
 	\section{Model danych diagram ERD}
 	
 			\begin{figure}[H]
-			%\centerline{\includegraphics[scale=1]{ERD.jpg}}
+			\centerline{\includegraphics[scale=1]{ERD.png}}
 			\caption{Diagram ERD apteki}
 			\end{figure}
 	\subsection{Opis atrybutów encji}
-	%\include{opisEncji}
+	\includepdf[pages=-]{opisERD.pdf}
+	
 	\section{Model dynamiki systemu Diagramy STD}
 	\begin{figure}[H]
 \centerline{\includegraphics[scale=1]{STDlek.jpg}}
