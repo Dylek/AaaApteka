@@ -152,22 +152,66 @@ Paweł \textsc{Ogorzały} \\
 %	\section{Diagram kontekstowy}
 
 	\section{Diagramy kontekstowy}
-	\includegraphics[scale=0.6]{zd.PNG} 
+	\includegraphics[scale=0.8]{zd.PNG} 
 	\section{Diagram DFD-poziom 0}
-		\includegraphics[scale=0.6]{zd2.PNG} 
-	\subsection{Diagram DFD - poziom 1 Zakup leków}
-		\includegraphics[scale=0.6]{zakupLekow.PNG} 
+		\includegraphics[scale=0.7]{dfdpoziom1.PNG} 
+	
 	\subsection{Diagram DFD - poziom 1 Kontrola magazynu}
-		\includegraphics[scale=0.6]{kontrolaMagazynu.PNG} 
+		\includegraphics[scale=0.9]{kontrolaMagazynu.PNG} 
+		
 	\subsection{Diagram DFD - poziom 1 Zamówienia}
-		\includegraphics[scale=0.6]{zamowienia.PNG} 
+		\includegraphics[scale=0.9]{zamowienia.PNG} 
+		
 	\subsection{Diagram DFD - poziom 1 Zarządzanie pracownikami}
 		\includegraphics[scale=0.6]{zarzadzaniePracownikami.PNG} 
+		
 	\subsection{Diagram DFD - poziom 1 Tworzenie raportu}
 		\includegraphics[scale=0.6]{tworzenieRaportu.PNG} 
+		
+	\subsection{Diagram DFD - poziom 1 Zakup leków}
+		\includegraphics[scale=0.6]{zakupLekow2.PNG} 	
+		\subsubsection{Poziom 2- Zakup leków- płatność gotówką}
+			\begin{figure}[H]
+			\centerline{\includegraphics[scale=1]{dfdp21.png}}
+			\caption{Diagram STD dla raportu}
+			\end{figure}
+		\subsubsection{Poziom 2- Zakup leków- płatność kartą}
+			\begin{figure}[H]
+			\centerline{\includegraphics[scale=1]{dfdp22.png}}
+			\caption{Diagram STD dla raportu}
+			\end{figure}
+			
 	\section{Model danych diagram ERD}
+	
+			\begin{figure}[H]
+			%\centerline{\includegraphics[scale=1]{ERD.jpg}}
+			\caption{Diagram ERD apteki}
+			\end{figure}
 	\subsection{Opis atrybutów encji}
+	%\include{opisEncji}
 	\section{Model dynamiki systemu Diagramy STD}
+	\begin{figure}[H]
+\centerline{\includegraphics[scale=1]{STDlek.jpg}}
+\caption{Diagram STD dla leku}
+\end{figure}
+	\begin{figure}[H]
+\centerline{\includegraphics[scale=1]{STDraport.jpg}}
+\caption{Diagram STD dla raportu}
+\end{figure}
+
+	\begin{figure}[H]
+\centerline{\includegraphics[scale=1]{STDmagazyn.png}}
+\caption{Diagram STD dla magazynu}
+\end{figure}
+	\begin{figure}[H]
+\centerline{\includegraphics[scale=1]{STDzamowienie2.jpg}}
+\caption{Diagram STD dla obsługi zamówienia z magazynu}
+\end{figure}
+
+	\begin{figure}[H]
+\centerline{\includegraphics[scale=1]{STDzakup.png}}
+\caption{Diagram STD dla zakupu leku}
+\end{figure}
 	\section{Słowniki danych}
 	\section{Specyfikacja procesów PSPEC}
 	
