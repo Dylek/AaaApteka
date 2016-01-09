@@ -161,7 +161,7 @@ Paweł \textsc{Ogorzały} \\
 		\includegraphics[scale=1]{kontrolaMagazynu.PNG} 
 		
 	\subsection{Diagram DFD - poziom 1 Zamówienia}
-		\includegraphics[scale=1]{zamowienia2.PNG} 
+		\includegraphics[scale=1]{zamowienia3.PNG} 
 		
 	\subsection{Diagram DFD - poziom 1 Zarządzanie pracownikami}
 		\includegraphics[scale=1]{zarzadzaniePracownikami2.PNG} 
@@ -342,8 +342,185 @@ Id\_pracownika	&Integer	&Tak\\ \hline
 	\section{Słowniki danych}
 	
 	\section{Specyfikacja procesów PSPEC}
+
+
+	\begin{enumerate}	
+	\item  Zakup leków
+	\begin{enumerate}
+	\item 1.1 Wybór leków\\
+	Dane wejściowe: wybrane leki.\\	
+	Warunek wejściowy: lek jest na składzie.\\	
+	Opis działania:\\
+		Podliczamy sumę wybranych przez klienta leków i pokazujemy mu ją jako cenę. Wysyłamy sumaryczną cenę leków do procesu finalizacji.\\
+		
+	Dane wyjściowe: cena, sumaryczna cena leków.\\	
+	Warunek wyjścia:brak.\\	
+	
+	\item 1.2 Wybór płatności\\
+	Dane wejściowe: rodzaj płatności.\\
+	Warunek wejściowy: brak.\\
+	Opis działania:\\
+		Przygotowujemy się na sposób w jaki zapłaci nam klient.\\
+		
+	Dane wyjściowe: wybrana forma płatności.\\
+	Warunek wyjścia: brak.\\	
+	\item 1.3 Wybór potwierdzenia\\
+	Dane wejściowe: rodzaj potwierdzenia.\\
+	Warunek wejściowy: brak.\\
+	Opis działania:\\
+		Przygotowujemy odpowiedni formularz dowodu sprzedaży zgodny z wybranym przez klienta rodzajem potwierdzenia.\\
+		
+	Dane wyjściowe:wybrana forma potwierdzenia \\
+	Warunek wyjścia: brak\\	
+	\item 1.4 Finalizacja sprzedaży
+	\begin{enumerate}
+	\item  1.4.1 Płatność gotówką
+		\begin{enumerate}
+			\item 1.4.1.1 Wpłacenie pieniędzy do kasy\\
+
+	Dane wejściowe: sumaryczna cena leków,wybrana forma płatności,wybrana forma potwierdzenia .\\
+	Warunek wejściowy: wybrana forma płatności to gotówka, sumaryczna cena leków jest niższa bądź równa kwocie zapłaty .\\
+	Opis działania:\\
+		Klient wpłaca kwotę zapłaty w gotówce do kasy fiskalnej. Kasa oblicza nam resztę do wydania, która jest przekazywana klientowi wraz z dowodem sprzedaży w formie przez niego wybranej(wybrana forma potwierdzenia). Informacje o sprzedaży zapisujemy w historii w bazie sprzedaży.\\
+		
+	Dane wyjściowe: dowód sprzedaży, kwota reszty, kwota zapłaty,informacje o sprzedaży. \\
+	Warunek wyjścia: brak.\\	
+		\item 1.4.2 Płatność kartą
+		\begin{enumerate}
+		\item 1.4.2.1 Wykonanie zapłaty kartą\\
+	Dane wejściowe: sumaryczna cena leków,wybrana forma płatności,wybrana forma potwierdzenia .\\
+	Warunek wejściowy: wybrana forma płatności to karta płatnicza.\\
+	Opis działania:\\
+		Klient korzysta z terminala kart, aby zapłacić za wybrane przez siebie leki. Przygotowywany jest dowód sprzedaży.\\
+		
+	Dane wyjściowe: Dane karty,przelewu,numer wpłaty \\
+	Warunek wyjścia: brak.\\	
+	
+		\item 1.4.2.2 Potwierdzenie zapłaty\\
+	Dane wejściowe: numer wpłaty, potwierdzenie dokonania przelewu .\\
+	Warunek wejściowy: brak.\\
+	Opis działania:\\
+		Sprawdzamy, czy dokonano przelewu. Jeśli tak, to drukujemy potwierdzenie i przekazujemy je wraz z dowodem sprzedaży klientowi, kopie zachowując dla siebie \\
+		
+	Dane wyjściowe: potwierdzenie dokonania płatności. \\
+	Warunek wyjścia: brak.\\	
+		\end{enumerate}
+		\end{enumerate}
+	\end{enumerate}
 	
 	
+		
+		
+	\item 1.5 Anulowanie zakupu\\
+	Dane wejściowe: zrezygnowanie z kupna.\\
+	Warunek wejściowy: brak.\\
+	Opis działania:\\
+		Wycofanie informacji przekazanych przez klienta do tej pory z transakcji i anulowanie jej. \\
+	Dane wyjściowe: brak.\\
+	Warunek wyjścia: brak.\\	
+	\end{enumerate}
+	
+	\item Kontrola magazynu
+	\begin{enumerate}
+	\item 2.1 Sprawdzenie stanu magazynu\\
+	Dane wejściowe: Zapytanie o stan leku, informacje o leku.\\
+	Warunek wejściowy: brak.\\
+	Opis działania:\\
+		Algorytm obsługuje zapytanie o stan leku i sprawdza informacje o nim w bazie leków, po czym wysyła informację zwrotną o stanie leku\\
+	Dane wyjściowe: informacje o stanie leku.\\
+	
+	Warunek wyjścia: brak.\\
+	\item 2.2 Dodanie informacji o nowym leku\\
+	Dane wejściowe: nowy lek.\\
+	Warunek wejściowy: brak.\\
+	Opis działania:\\
+		Algorytm dostaje informacje o nowym leku. Sprawdza ich poprawność. Po czym tworzy dla niego rekord zgodny z tabelą lek i wysyła go do bazy leków. \\
+		
+	Dane wyjściowe: lista nowy leków.\\
+	Warunek wyjścia: brak.\\
+\end{enumerate}		
+	
+	
+	\item Zamówienia
+	\begin{enumerate}
+		\item 3.1 Sporządzenie zamówienia\\
+	Dane wejściowe: nowe zamówienie, lista zamówień na leki.\\
+	Warunek wejściowy: brak.\\
+	Opis działania:\\
+		Wypełnienie formularza zamówienia na nowe leki danymi przekazanymi przez farmaceutę oraz magazyniera. Następnie wysłanie formularza do kierownika.\\
+		
+	Dane wyjściowe: Lista zamówień do akceptacji.\\
+	Warunek wyjścia: lista nie jest pusta.\\
+		\item 3.3 Wysłanie zamówienia do hurtowni	
+	Dane wejściowe: lista zamówień.\\
+	Warunek wejściowy: lista jest zaakceptowana.\\
+	Opis działania:\\
+		Lista zamówień zaakceptowanych przez kierownika zostaje wysłana do hurtowni.\\
+		
+	Dane wyjściowe: lista zamówień. \\
+	Warunek wyjścia: brak\\
+		\item 3.4 Odebranie dostawy
+	Dane wejściowe: lista produktów.\\
+	Warunek wejściowy: brak.\\
+	Opis działania:\\
+		Wykonanie formalności związanych z odbieraniem dostawy od hurtownika. Sprawdzenie dostarczonych produktów i zapłacenie za nie. Dodanie informacji o dostarczonych lekach do bazy leków. \\
+		
+	Dane wyjściowe: Dostarczone leki\\
+	Warunek wyjścia: brak.\\
+	\end{enumerate}
+	
+	
+	\item Zarządzanie pracownikami\\
+	\begin{enumerate}
+	\item 4.1 Przeprowadź rekrutację pracowników	\\
+	Dane wejściowe: Lista potrzebnych pracowników.\\
+	Warunek wejściowy: lista nie jest pusta.\\
+	Opis działania:\\
+		Dostajemy informację jakich pracowników poszukujemy. Sprawdzamy nadesłane do nas CV. Zapraszamy na rozmowę kwalifikacyjną osoby, które nadają się na stanowiska z wakatem. Zatrudniamy odpowiednie osoby. Tworzymy listę nowo zatrudnionych osób, po czym wysyłamy ją do bazy pracowników. \\
+		
+	Dane wyjściowe: lista nowo zatrudnionych.\\
+	Warunek wyjścia: Zatrudniono pracownika.\\
+	
+		\item 4.2 Zwolnij pracownika\\
+	Dane wejściowe: Lista pracowników do zwolnienia.\\
+	Warunek wejściowy: lista nie jest pusta.\\
+	Opis działania:\\
+		Rozwiązujemy umowę z pracownikami z listy i dopełniamy formalności prawnych z tym związanych. Po czym aktualizujemy bazę pracowników aktualnie zatrudnionych. \\
+		
+	Dane wyjściowe: lista do usunięcia.\\
+	Warunek wyjścia: Zwolniono pracownika.\\
+		
+		\item 4.3 Daj awans	\\
+	Dane wejściowe: Lista pracowników do awansu.\\
+	Warunek wejściowy: lista nie jest pusta.\\
+	Opis działania:\\
+		Dajemy awans pracownikom z listy. Zwiększamy ich pensje. Wysyłamy  do bazy informacje o tym kto dostał awans i o ile zwiększyła się jego pensja.\\
+		
+	Dane wyjściowe: lista awansowanych.\\
+	Warunek wyjścia: awansowano pracownika.\\
+	\end{enumerate}
+		
+	\item  Tworzenie raportu
+		\begin{enumerate}
+		\item 5.1 Sporządzenie listy recept\\
+		Dane wejściowe: Dane do raportu.\\
+		Warunek wejściowy: brak.\\
+		Opis działania:\\
+		Sporządzamy listę wykorzystanych recept na zakupione u nas leki.\\
+		
+		Dane wyjściowe: lista recept.\\
+		Warunek wyjścia: brak.
+		\item 5.2 Tworzenie raportu
+		Dane wejściowe: Lista recept, dane farmaceuty, wybrany oddział.\\
+		Warunek wejściowy: Termin wysłania raportu to data dzisiejsza.\\
+		Opis działania:\\
+			Wypełniamy formularz raportu wpisując do niego wykorzystane recepty z listy recept. Farmaceuta piszący raport podpisuje się pod nim i wypełnia odpowiednie pola swoimi danymi, a także wybiera oddział NFZ do którego trafi raport. Na koniec wysyła raport.\\
+			
+		Dane wyjściowe: Raport.\\
+		Warunek wyjścia: Raport utworzono.\\
+		\end{enumerate}
+	
+	\end{enumerate}
 	\section{Bibliografia}
 	\begin{itemize}
 	\item Notatki z wykładów z przedmiotu Inżynieria Oprogramowania.

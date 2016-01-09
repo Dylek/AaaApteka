@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.6)  9 JAN 2016 15:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.6)  9 JAN 2016 16:50
 entering extended mode
 **dokumentacja.tex
 (C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.tex
@@ -565,12 +565,12 @@ File: kontrolaMagazynu.PNG Graphic file (type png)
 Package pdftex.def Info: kontrolaMagazynu.PNG used on input line 161.
 (pdftex.def)             Requested size: 435.12456pt x 324.46138pt.
  [4 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/dfdpoziom1.PNG>] <z
-amowienia2.PNG, id=33, 395.97937pt x 349.305pt>
-File: zamowienia2.PNG Graphic file (type png)
+amowienia3.PNG, id=33, 411.78844pt x 350.81062pt>
+File: zamowienia3.PNG Graphic file (type png)
 
-<use zamowienia2.PNG>
-Package pdftex.def Info: zamowienia2.PNG used on input line 164.
-(pdftex.def)             Requested size: 395.97841pt x 349.30414pt.
+<use zamowienia3.PNG>
+Package pdftex.def Info: zamowienia3.PNG used on input line 164.
+(pdftex.def)             Requested size: 411.78741pt x 350.80975pt.
  [5 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/kontrolaMagazynu.PN
 G>]
 <zarzadzaniePracownikami2.PNG, id=39, 444.15938pt x 341.77687pt>
@@ -579,7 +579,7 @@ File: zarzadzaniePracownikami2.PNG Graphic file (type png)
 <use zarzadzaniePracownikami2.PNG>
 Package pdftex.def Info: zarzadzaniePracownikami2.PNG used on input line 167.
 (pdftex.def)             Requested size: 444.15828pt x 341.77603pt.
- [6 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zamowienia2.PNG>]
+ [6 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zamowienia3.PNG>]
 <tworzenieRaportu.PNG, id=44, 318.43968pt x 352.31625pt>
 File: tworzenieRaportu.PNG Graphic file (type png)
 
@@ -716,21 +716,202 @@ Package pdftex.def Info: STDzakup.png used on input line 339.
 (pdftex.def)             Requested size: 444.15828pt x 467.49542pt.
 
 [18 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDzamowienie2.jpg>
-] [19 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDzakup.png>]
-(C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.aux)
+]
+Underfull \hbox (badness 10000) in paragraph at lines 350--355
+
+ []
+
+[19 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDzakup.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 356--358
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--367
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--385
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--388
+
+ []
+
+
+! LaTeX Error: Too deeply nested.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.389 		\begin{enumerate}
+                         
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--395
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 396--398
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--404
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--421
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--431
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--441
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 446--451
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--462
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--467
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--480
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--489
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 490--492
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--498
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--501
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--510
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--518
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--521
+
+ []
+
+[23] (C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.17pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 3709 strings out of 493921
- 48622 string characters out of 3147282
+ 3710 strings out of 493921
+ 48627 string characters out of 3147282
  114713 words of memory out of 3000000
- 6904 multiletter control sequences out of 15000+200000
+ 6905 multiletter control sequences out of 15000+200000
  16677 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,7n,39p,327b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,7n,39p,327b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecbx1200.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\ecrm1095.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
@@ -744,9 +925,9 @@ pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \eccc1440.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
 \ec\dpi600\eccc1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb>
-Output written on dokumentacja.pdf (20 pages, 538324 bytes).
+Output written on dokumentacja.pdf (24 pages, 547214 bytes).
 PDF statistics:
- 457 PDF objects out of 1000 (max. 8388607)
+ 472 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
