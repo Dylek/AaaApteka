@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.6)  9 JAN 2016 14:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.6)  9 JAN 2016 15:01
 entering extended mode
 **dokumentacja.tex
 (C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.tex
@@ -541,23 +541,19 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 133.
  [2]
-<zd.PNG, id=21, 589.4522pt x 508.14844pt>
+<zd.PNG, id=21, 560.0925pt x 439.6425pt>
 File: zd.PNG Graphic file (type png)
  <use zd.PNG>
 Package pdftex.def Info: zd.PNG used on input line 156.
-(pdftex.def)             Requested size: 471.5624pt x 406.51929pt.
+(pdftex.def)             Requested size: 448.0746pt x 351.71446pt.
 
-Overfull \hbox (16.31828pt too wide) in paragraph at lines 156--157
-[] 
- []
-
-<dfdpoziom1.PNG, id=23, 780.66656pt x 625.58719pt>
+<dfdpoziom1.PNG, id=23, 718.18312pt x 546.54187pt>
 File: dfdpoziom1.PNG Graphic file (type png)
  <use dfdpoziom1.PNG>
 Package pdftex.def Info: dfdpoziom1.PNG used on input line 158.
-(pdftex.def)             Requested size: 546.46288pt x 437.90805pt.
+(pdftex.def)             Requested size: 502.72476pt x 382.57669pt.
 
-Overfull \hbox (91.21877pt too wide) in paragraph at lines 158--159
+Overfull \hbox (47.48065pt too wide) in paragraph at lines 158--159
 [] 
  []
 
@@ -605,13 +601,13 @@ File: dfdp21.png Graphic file (type png)
 Package pdftex.def Info: dfdp21.png used on input line 176.
 (pdftex.def)             Requested size: 360.5963pt x 360.5963pt.
  [9 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zakupLekow2.PNG>]
-<dfdp22.png, id=57, 489.32813pt x 523.20468pt>
+<dfdp22.png, id=58, 489.32813pt x 523.20468pt>
 File: dfdp22.png Graphic file (type png)
  <use dfdp22.png>
 Package pdftex.def Info: dfdp22.png used on input line 181.
 (pdftex.def)             Requested size: 489.32692pt x 523.2034pt.
  [10 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/dfdp21.png>]
-<ERD.png, id=61, 619.56468pt x 576.65437pt>
+<ERD.png, id=62, 619.56468pt x 576.65437pt>
 File: ERD.png Graphic file (type png)
  <use ERD.png>
 Package pdftex.def Info: ERD.png used on input line 188.
@@ -686,25 +682,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 311--317
 
  []
 
-<STDlek.jpg, id=75, 459.96844pt x 290.58563pt>
+<STDlek.jpg, id=77, 459.96844pt x 290.58563pt>
 File: STDlek.jpg Graphic file (type jpg)
  <use STDlek.jpg>
 Package pdftex.def Info: STDlek.jpg used on input line 321.
 (pdftex.def)             Requested size: 459.96732pt x 290.58492pt.
 
-<STDraport.jpg, id=76, 459.96844pt x 240.9pt>
+<STDraport.jpg, id=78, 459.96844pt x 240.9pt>
 File: STDraport.jpg Graphic file (type jpg)
  <use STDraport.jpg>
 Package pdftex.def Info: STDraport.jpg used on input line 325.
 (pdftex.def)             Requested size: 459.96732pt x 240.8994pt.
  [15]
-<STDmagazyn.png, id=80, 343.2825pt x 321.45094pt>
+<STDmagazyn.png, id=82, 343.2825pt x 321.45094pt>
 File: STDmagazyn.png Graphic file (type png)
  <use STDmagazyn.png>
 Package pdftex.def Info: STDmagazyn.png used on input line 330.
 (pdftex.def)             Requested size: 343.28165pt x 321.45015pt.
 
-<STDzamowienie2.jpg, id=81, 341.02406pt x 390.70969pt>
+<STDzamowienie2.jpg, id=83, 341.02406pt x 390.70969pt>
 File: STDzamowienie2.jpg Graphic file (type jpg)
 
 <use STDzamowienie2.jpg>
@@ -713,7 +709,7 @@ Package pdftex.def Info: STDzamowienie2.jpg used on input line 334.
  [16 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDlek.jpg> <C:/Us
 ers/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDraport.jpg>] [17 <C:/Users
 /Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDmagazyn.png>] <STDzakup.png, 
-id=88, 444.15938pt x 467.49657pt>
+id=90, 444.15938pt x 467.49657pt>
 File: STDzakup.png Graphic file (type png)
  <use STDzakup.png>
 Package pdftex.def Info: STDzakup.png used on input line 339.
@@ -748,9 +744,9 @@ pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \eccc1440.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
 \ec\dpi600\eccc1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb>
-Output written on dokumentacja.pdf (20 pages, 542612 bytes).
+Output written on dokumentacja.pdf (20 pages, 538324 bytes).
 PDF statistics:
- 455 PDF objects out of 1000 (max. 8388607)
+ 457 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
