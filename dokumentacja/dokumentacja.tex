@@ -340,6 +340,75 @@ Id\_pracownika	&Integer	&Tak\\ \hline
 \caption{Diagram STD dla zakupu leku}
 \end{figure}
 	\section{Słowniki danych}
+	\textbf{C} \newline \newline
+	\noindent
+	cena = {cyfra} + waluta \newline
+	cyfra = ["0" | "1" \textpipe "2" \textpipe "3" \textpipe "4" \textpipe "5" \textpipe "6" \textpipe "7" \textpipe "8" \textpipe "9"] \newline \newline
+	\textbf{D} \newline \newline
+	\noindent
+	dane do raportu = {dowód sprzedaży} \newline
+	dane farmaceuty = \at id\_pracownika + imię + nazwisko \newline
+	dane karty = {cyfra} \newline
+	dane przelewu = {cyfra} \newline
+	dostarczone leki = "patrz:nowe zamówienie" \newline
+	dowód sprzedaży = \at id\_sprzedaży + id\_leku + kwota + data\_wystawienia + id\_zamówienia \newline \newline
+	\textbf{I} \newline \newline
+	\noindent
+	informacja o stanie leku = "patrz:lek" \newline
+	informacje o leku = "patrz:lek" \newline
+	informacje o sprzedaży = "patrz:dowód sprzedaży" \newline \newline
+	\textbf{K} \newline \newline
+	\noindent
+	kwota reszty = "patrz:cena" \newline
+	kwota zapłaty = "patrz:cena" \newline \newline
+	\textbf{L} \newline \newline
+	\noindent
+	lek = \at id\_leku + cena + data\_ważności + czy\_na\_receptę + nazwa\_leku \newline
+	lista awansowanych = "patrz:lista pracowników" \newline
+	lista do usunięcia = "patrz:lista pracowników" \newline
+	lista nowo zatrudnionych = "patrz:lista pracowników" \newline
+	lista nowych leków = nowy lek + ilość \newline
+	lista potrzebnych pracowników = stanowisko + ilość \newline
+	lista pracowników = {pracownik} \newline
+	lista pracowników do awansu = "patrz:lista pracowników" \newline
+	lista pracowników do zwolnienia = "patrz:lista pracowników" \newline
+	lista produktów = "patrz:nowe zamówienie" \newline
+	lista recept = {recepta} \newline
+	lista zamówień = "patrz:nowe zamówienie" \newline
+	lista zamówień do akceptacji = "patrz:nowe zamówienie" \newline
+	lista zamówień na leki = "patrz:nowe zamówienie" \newline \newline
+	\textbf{N} \newline\newline
+	\noindent
+	nowe zamówienie = lek + ilość \newline
+	nowy lek = "patrz:lek" \newline
+	numer wpłaty = {cyfra} \newline \newline
+	\textbf{P} \newline \newline
+	\noindent
+	potwierdzenie = "patrz:rodzaj potwierdzenia" \newline
+	potwierdzenie dokonania płatności = "patrz:dowód płatności" \newline
+	potwierdzenie dokonania przelewu = "Potwierdzono" \newline
+	pracownik = \at id\_pracownika + imię + nazwisko + (pensja) \newline \newline
+	\textbf{R} \newline \newline
+	\noindent	
+	raport = \at id\_raportu + id\_recepty + id\_pracownika \newline
+	recepta = \at id\_recepty + id\_klienta + data\_wystawienia + lekarz \newline
+	rodzaj płatności = ["Gotówka" \textpipe "Karta"] \newline
+	rodzaj potwierdzenia = ["Rachunek" \textpipe "Faktura"] \newline \newline
+	\textbf{S} \newline \newline
+	\noindent
+	stanowisko = ["Magazynier" \textpipe "Farmaceuta" \textpipe "Kierownik"] \newline
+	sumaryczna cena leków = "patrz:cena" \newline \newline
+	\textbf{W} \newline \newline
+	\noindent
+	waluta = ["Euro \textpipe "PLN"] \newline
+	wybrana forma płatności = "patrz:rodzaj płatności" \newline
+	wybrana forma potwierdzenia = "patrz:rodzaj potwierdzenia" \newline
+	wybrane leki = {lek} \newline
+	wybrany oddział = \at nr\_oddziału \newline \newline
+	\textbf{Z} \newline \newline
+	\noindent	
+	zapytanie o stan leku = "patrz:lek" \newline
+	zrezygnowanie z kupna = ["Tak" \textpipe "Nie"] \newline \newline
 	
 	\section{Specyfikacja procesów PSPEC}
 

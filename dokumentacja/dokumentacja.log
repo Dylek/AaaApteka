@@ -1,22 +1,13 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.6)  9 JAN 2016 16:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.24)  9 JAN 2016 17:16
 entering extended mode
 **dokumentacja.tex
-(C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(dokumentacja.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -30,20 +21,20 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2008/07/08 v3.8m The Babel package
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2015/08/03 3.9m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\polish.ldf"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-polish\polish.ldf"
 Language: polish 2005/03/31 v1.2l Polish support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2008/07/08 v3.8m Babel common definitions
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2015/08/03 3.9m Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 )
@@ -53,19 +44,19 @@ Package babel Info: Making " an active character on input line 83.
 \pl@right=\dimen106
 \pl@temp=\dimen107
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\polski\polski.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\polski\polski.sty"
 Package: polski 2008/02/24 v1.3.3 Polish language package
 
 Document language package `polski' v1.3.3 <2008/02/24>
-\l@nohyphenation=\language69
+\l@nohyphenation=\language70
    Switching to Polish text encoding and Polish maths fonts.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot4enc.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot4enc.def"
 File: ot4enc.def 2005/09/27 v1.99g Standard LaTeX file
 )
 LaTeX Font Info:    Try loading font information for OT4+cmr on input line 346.
 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\polski\ot4cmr.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\polski\ot4cmr.fd"
 File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
@@ -100,20 +91,20 @@ LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 346.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
@@ -262,8 +253,8 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00B8 (decimal 184)
@@ -293,8 +284,8 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -319,38 +310,38 @@ Now handling font encoding OT4 ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
@@ -358,7 +349,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen108
 \Gin@req@width=\dimen109
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
 \wrapoverhang=\dimen110
 \WF@size=\dimen111
 \c@WF@wrappedlines=\count89
@@ -366,39 +357,39 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \WF@everypar=\toks17
 Package: wrapfig 2003/01/31  v 3.6
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
 Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count90
 \calc@Bcount=\count91
 \calc@Adimen=\dimen112
 \calc@Bdimen=\dimen113
 \calc@Askip=\skip43
 \calc@Bskip=\skip44
-LaTeX Info: Redefining \setlength on input line 76.
-LaTeX Info: Redefining \addtolength on input line 77.
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count92
 \calc@Cskip=\skip45
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -415,7 +406,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 \AM@pagewidth=\dimen114
 \AM@pageheight=\dimen115
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
 File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box27
@@ -423,7 +414,7 @@ File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count93
 \AM@templatesizebox=\box28
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\anysize.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\anysize.sty"
 Package: anysize 1994/08/13 1.0 Contributed LaTeX2e package
 
 Package: `anysize' 1.0 <1994/08/13>
@@ -431,7 +422,7 @@ Package: `anysize' 1.0 <1994/08/13>
 \@Rightmargin=\dimen117
 \@Topmargin=\dimen118
 \@Bottommargin=\dimen119
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count94
 \float@exts=\toks19
@@ -439,7 +430,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks20
 \@floatcapt=\box30
 )
-(C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.aux)
+(dokumentacja.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -455,7 +446,7 @@ LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count95
 \scratchdimen=\dimen120
@@ -470,15 +461,15 @@ LaTeX Font Info:    ... okay on input line 24.
 \everyMPtoPDFconversion=\toks22
 )
 \AtBeginShipoutBox=\box32
- ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 ))
 
@@ -486,19 +477,19 @@ LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <38> not available
 (Font)              size <35.83> substituted on input line 56.
 
 LaTeX Font Info:    Try loading font information for OML+plm on input line 73.
-("C:\Program Files\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Try loading font information for OMS+plsy on input line 73.
 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\polski\omsplsy.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\polski\omsplsy.fd"
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Try loading font information for OMX+plex on input line 73.
 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\polski\omxplex.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\polski\omxplex.fd"
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
@@ -509,8 +500,8 @@ LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <6> on input line 73.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.toc)
+{C:/Users/pawel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (dokumentac
+ja.toc)
 \tf@toc=\write3
 
 [1]
@@ -535,8 +526,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--130
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 133.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 133.
@@ -557,67 +548,63 @@ Overfull \hbox (47.48065pt too wide) in paragraph at lines 158--159
 [] 
  []
 
-[3 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zd.PNG>]
-<kontrolaMagazynu.PNG, id=28, 435.12563pt x 324.46219pt>
+[3 <./zd.PNG>] <kontrolaMagazynu.PNG, id=28, 435.12563pt x 324.46219pt>
 File: kontrolaMagazynu.PNG Graphic file (type png)
 
 <use kontrolaMagazynu.PNG>
 Package pdftex.def Info: kontrolaMagazynu.PNG used on input line 161.
 (pdftex.def)             Requested size: 435.12456pt x 324.46138pt.
- [4 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/dfdpoziom1.PNG>] <z
-amowienia3.PNG, id=33, 411.78844pt x 350.81062pt>
+ [4 <./dfdpoziom1.PNG>]
+<zamowienia3.PNG, id=33, 411.78844pt x 350.81062pt>
 File: zamowienia3.PNG Graphic file (type png)
-
-<use zamowienia3.PNG>
+ <use zamowienia3.PNG>
 Package pdftex.def Info: zamowienia3.PNG used on input line 164.
 (pdftex.def)             Requested size: 411.78741pt x 350.80975pt.
- [5 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/kontrolaMagazynu.PN
-G>]
+
+[5 <./kontrolaMagazynu.PNG>]
 <zarzadzaniePracownikami2.PNG, id=39, 444.15938pt x 341.77687pt>
 File: zarzadzaniePracownikami2.PNG Graphic file (type png)
 
 <use zarzadzaniePracownikami2.PNG>
 Package pdftex.def Info: zarzadzaniePracownikami2.PNG used on input line 167.
 (pdftex.def)             Requested size: 444.15828pt x 341.77603pt.
- [6 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zamowienia3.PNG>]
+ [6 <./zamowienia3.PNG>]
 <tworzenieRaportu.PNG, id=44, 318.43968pt x 352.31625pt>
 File: tworzenieRaportu.PNG Graphic file (type png)
 
 <use tworzenieRaportu.PNG>
 Package pdftex.def Info: tworzenieRaportu.PNG used on input line 170.
 (pdftex.def)             Requested size: 318.4389pt x 352.31538pt.
- [7 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zarzadzaniePracowni
-kami2.PNG>]
+ [7 <./zarzadzaniePracownikami2.PNG>]
 <zakupLekow2.PNG, id=48, 303.38344pt x 338.01282pt>
 File: zakupLekow2.PNG Graphic file (type png)
  <use zakupLekow2.PNG>
 Package pdftex.def Info: zakupLekow2.PNG used on input line 173.
 (pdftex.def)             Requested size: 303.38269pt x 338.01198pt.
 
-[8 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/tworzenieRaportu.PNG
->] <dfdp21.png, id=53, 360.59718pt x 360.59718pt>
+[8 <./tworzenieRaportu.PNG>] <dfdp21.png, id=53, 360.59718pt x 360.59718pt>
 File: dfdp21.png Graphic file (type png)
- <use dfdp21.png>
+
+<use dfdp21.png>
 Package pdftex.def Info: dfdp21.png used on input line 176.
 (pdftex.def)             Requested size: 360.5963pt x 360.5963pt.
- [9 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zakupLekow2.PNG>]
+ [9 <./zakupLekow2.PNG>]
 <dfdp22.png, id=58, 489.32813pt x 523.20468pt>
 File: dfdp22.png Graphic file (type png)
  <use dfdp22.png>
 Package pdftex.def Info: dfdp22.png used on input line 181.
 (pdftex.def)             Requested size: 489.32692pt x 523.2034pt.
- [10 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/dfdp21.png>]
-<ERD.png, id=62, 619.56468pt x 576.65437pt>
+ [10 <./dfdp21.png>] <ERD.png, id=62, 619.56468pt x 576.65437pt>
 File: ERD.png Graphic file (type png)
  <use ERD.png>
 Package pdftex.def Info: ERD.png used on input line 188.
 (pdftex.def)             Requested size: 619.56316pt x 576.65295pt.
- [11 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/dfdp22.png>]
+ [11 <./dfdp22.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 193--201
 
  []
 
-[12 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/ERD.png>]
+[12 <./ERD.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 202--211
 
  []
@@ -706,58 +693,386 @@ File: STDzamowienie2.jpg Graphic file (type jpg)
 <use STDzamowienie2.jpg>
 Package pdftex.def Info: STDzamowienie2.jpg used on input line 334.
 (pdftex.def)             Requested size: 341.02322pt x 390.70872pt.
- [16 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDlek.jpg> <C:/Us
-ers/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDraport.jpg>] [17 <C:/Users
-/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDmagazyn.png>] <STDzakup.png, 
-id=90, 444.15938pt x 467.49657pt>
+ [16 <./STDlek.jpg> <./STDraport.jpg>] [17 <./STDmagazyn.png>] <STDzakup.png, i
+d=90, 444.15938pt x 467.49657pt>
 File: STDzakup.png Graphic file (type png)
  <use STDzakup.png>
 Package pdftex.def Info: STDzakup.png used on input line 339.
 (pdftex.def)             Requested size: 444.15828pt x 467.49542pt.
 
-[18 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDzamowienie2.jpg>
-]
-Underfull \hbox (badness 10000) in paragraph at lines 350--355
+[18 <./STDzamowienie2.jpg>]
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.346 	cyfra = ["0" | "1" \textpipe
+                                    "2" \textpipe "3" \textpipe "4" \textpip...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.346 	cyfra = ["0" | "1" \textpipe "2" \textpipe
+                                                  "3" \textpipe "4" \textpip...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.346 ..."1" \textpipe "2" \textpipe "3" \textpipe
+                                                   "4" \textpipe "5" \textpi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.346 ..."2" \textpipe "3" \textpipe "4" \textpipe
+                                                   "5" \textpipe "6" \textpi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.346 ..."3" \textpipe "4" \textpipe "5" \textpipe
+                                                   "6" \textpipe "7" \textpi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.346 ..."4" \textpipe "5" \textpipe "6" \textpipe
+                                                   "7" \textpipe "8" \textpi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.346 ..."5" \textpipe "6" \textpipe "7" \textpipe
+                                                   "8" \textpipe "9"] \newli...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.346 ..."6" \textpipe "7" \textpipe "8" \textpipe
+                                                   "9"] \newline \newline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.350 	dane farmaceuty = \at
+                             id\_pracownika + imię + nazwisko \newline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.354 	dowód sprzedaży = \at
+                               id\_sprzedaży + id\_leku + kwota + data\_wys...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.366 	lek = \at
+                 id\_leku + cena + data\_ważności + czy\_na\_receptę + na...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.390 	pracownik = \at
+                       id\_pracownika + imię + nazwisko + (pensja) \newline...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.393 	raport = \at
+                    id\_raportu + id\_recepty + id\_pracownika \newline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.394 	recepta = \at
+                     id\_recepty + id\_klienta + data\_wystawienia + lekarz ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.395 	rodzaj płatności = ["Gotówka" \textpipe
+                                                  "Karta"] \newline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.396 ...zaj potwierdzenia = ["Rachunek" \textpipe
+                                                   "Faktura"] \newline \newline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.399 	stanowisko = ["Magazynier" \textpipe
+                                            "Farmaceuta" \textpipe "Kierowni...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.399 ...azynier" \textpipe "Farmaceuta" \textpipe
+                                                   "Kierownik"] \newline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.403 	waluta = ["Euro \textpipe
+                                 "PLN"] \newline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.407 	wybrany oddział = \at
+                              nr\_oddziału \newline \newline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... system@active"\endcsname \textpipe 
+                                                  
+l.411 	zrezygnowanie z kupna = ["Tak" \textpipe
+                                                "Nie"] \newline \newline
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
 
  []
 
-[19 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDzakup.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 356--358
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--364
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 365--367
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--372
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--375
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--380
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--385
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 386--388
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--412
+
+ []
+
+[19 <./STDzakup.png>] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 419--424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--427
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--441
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 442--444
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--457
 
  []
 
@@ -768,166 +1083,166 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.389 		\begin{enumerate}
+l.458 		\begin{enumerate}
                          
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--395
-
- []
-
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 396--398
+Underfull \hbox (badness 10000) in paragraph at lines 459--464
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--404
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--407
+Underfull \hbox (badness 10000) in paragraph at lines 468--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--421
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 425--431
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 433--438
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 439--441
-
- []
-
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 446--451
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 452--454
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 454--459
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 460--462
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 462--467
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 468--470
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 473--474
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--480
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 481--483
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 484--489
+Underfull \hbox (badness 10000) in paragraph at lines 474--476
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 490--492
+Underfull \hbox (badness 10000) in paragraph at lines 483--490
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 493--498
+Underfull \hbox (badness 10000) in paragraph at lines 494--500
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--501
+Underfull \hbox (badness 10000) in paragraph at lines 501--502
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--510
+Underfull \hbox (badness 10000) in paragraph at lines 502--507
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 513--518
+Underfull \hbox (badness 10000) in paragraph at lines 508--510
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--521
+Underfull \hbox (badness 10000) in paragraph at lines 515--520
 
  []
 
-[23] (C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--523
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--528
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 529--531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--539
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--543
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--549
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--552
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--558
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--561
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--567
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 568--570
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 574--579
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--587
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 588--590
+
+ []
+
+[25] (dokumentacja.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.17pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 3710 strings out of 493921
- 48627 string characters out of 3147282
- 114713 words of memory out of 3000000
- 6905 multiletter control sequences out of 15000+200000
+ 3841 strings out of 493673
+ 50695 string characters out of 3141529
+ 123387 words of memory out of 3000000
+ 7088 multiletter control sequences out of 15000+200000
  16677 words of font info for 38 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 37i,7n,39p,327b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1200.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecrm1095.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Dylek\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk> <C:\Users\Dylek\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Dylek\
+ 1025 hyphenation exceptions out of 8191
+ 37i,7n,39p,327b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\pawel\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecbx1200.pk> <C:\Users\pawel\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecrm1095.pk> <C:\Users\pawel\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\pawel\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\pawel\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk> <C:\Users\pawel\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\pawel\
 AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Us
-ers\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm3583.
-pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\eccc1440.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
-\ec\dpi600\eccc1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb>
-Output written on dokumentacja.pdf (24 pages, 547214 bytes).
+ers\pawel\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm3583.
+pk> <C:\Users\pawel\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\eccc1440.pk> <C:\Users\pawel\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
+\ec\dpi600\eccc1728.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb>
+Output written on dokumentacja.pdf (26 pages, 553951 bytes).
 PDF statistics:
- 472 PDF objects out of 1000 (max. 8388607)
+ 492 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

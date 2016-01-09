@@ -15,5 +15,5 @@
 \contentsline {subsection}{\numberline {6.1}Opis atrybut\IeC {\'o}w encji}{13}
 \contentsline {section}{\numberline {7}Model dynamiki systemu Diagramy STD}{16}
 \contentsline {section}{\numberline {8}S\IeC {\l }owniki danych}{19}
-\contentsline {section}{\numberline {9}Specyfikacja proces\IeC {\'o}w PSPEC}{19}
-\contentsline {section}{\numberline {10}Bibliografia}{23}
+\contentsline {section}{\numberline {9}Specyfikacja proces\IeC {\'o}w PSPEC}{21}
+\contentsline {section}{\numberline {10}Bibliografia}{25}
