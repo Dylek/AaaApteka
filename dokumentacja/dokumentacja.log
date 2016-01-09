@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.6)  8 JAN 2016 21:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.6)  9 JAN 2016 14:23
 entering extended mode
 **dokumentacja.tex
 (C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.tex
@@ -567,163 +567,160 @@ File: kontrolaMagazynu.PNG Graphic file (type png)
 
 <use kontrolaMagazynu.PNG>
 Package pdftex.def Info: kontrolaMagazynu.PNG used on input line 161.
-(pdftex.def)             Requested size: 391.60944pt x 292.01326pt.
+(pdftex.def)             Requested size: 435.12456pt x 324.46138pt.
  [4 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/dfdpoziom1.PNG>] <z
-amowienia.PNG, id=33, 572.1375pt x 344.03531pt>
-File: zamowienia.PNG Graphic file (type png)
+amowienia2.PNG, id=33, 395.97937pt x 349.305pt>
+File: zamowienia2.PNG Graphic file (type png)
 
-<use zamowienia.PNG>
-Package pdftex.def Info: zamowienia.PNG used on input line 164.
-(pdftex.def)             Requested size: 514.91899pt x 309.62892pt.
-
-Overfull \hbox (59.67488pt too wide) in paragraph at lines 164--165
-[] 
- []
-
-<zarzadzaniePracownikami.PNG, id=34, 616.55344pt x 360.59718pt>
-File: zarzadzaniePracownikami.PNG Graphic file (type png)
-
-<use zarzadzaniePracownikami.PNG>
-Package pdftex.def Info: zarzadzaniePracownikami.PNG used on input line 167.
-(pdftex.def)             Requested size: 369.9349pt x 216.35997pt.
+<use zamowienia2.PNG>
+Package pdftex.def Info: zamowienia2.PNG used on input line 164.
+(pdftex.def)             Requested size: 395.97841pt x 349.30414pt.
  [5 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/kontrolaMagazynu.PN
-G> <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zamowienia.PNG>]
-<tworzenieRaportu.PNG, id=41, 318.43968pt x 352.31625pt>
+G>]
+<zarzadzaniePracownikami2.PNG, id=39, 444.15938pt x 341.77687pt>
+File: zarzadzaniePracownikami2.PNG Graphic file (type png)
+
+<use zarzadzaniePracownikami2.PNG>
+Package pdftex.def Info: zarzadzaniePracownikami2.PNG used on input line 167.
+(pdftex.def)             Requested size: 444.15828pt x 341.77603pt.
+ [6 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zamowienia2.PNG>]
+<tworzenieRaportu.PNG, id=44, 318.43968pt x 352.31625pt>
 File: tworzenieRaportu.PNG Graphic file (type png)
 
 <use tworzenieRaportu.PNG>
 Package pdftex.def Info: tworzenieRaportu.PNG used on input line 170.
-(pdftex.def)             Requested size: 191.06528pt x 211.39137pt.
- <zakupLekow2.PNG, id=42, 303.38344pt x 338.01282pt>
+(pdftex.def)             Requested size: 318.4389pt x 352.31538pt.
+ [7 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zarzadzaniePracowni
+kami2.PNG>]
+<zakupLekow2.PNG, id=48, 303.38344pt x 338.01282pt>
 File: zakupLekow2.PNG Graphic file (type png)
-
-<use zakupLekow2.PNG>
+ <use zakupLekow2.PNG>
 Package pdftex.def Info: zakupLekow2.PNG used on input line 173.
-(pdftex.def)             Requested size: 182.03146pt x 202.80925pt.
- [6 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zarzadzaniePracowni
-kami.PNG> <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/tworzenieRapo
-rtu.PNG>] <dfdp21.png, id=49, 360.59718pt x 360.59718pt>
-File: dfdp21.png Graphic file (type png)
+(pdftex.def)             Requested size: 303.38269pt x 338.01198pt.
 
-<use dfdp21.png>
+[8 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/tworzenieRaportu.PNG
+>] <dfdp21.png, id=53, 360.59718pt x 360.59718pt>
+File: dfdp21.png Graphic file (type png)
+ <use dfdp21.png>
 Package pdftex.def Info: dfdp21.png used on input line 176.
 (pdftex.def)             Requested size: 360.5963pt x 360.5963pt.
- <dfdp22.png, id=50, 489.32813pt x 523.20468pt>
+ [9 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zakupLekow2.PNG>]
+<dfdp22.png, id=57, 489.32813pt x 523.20468pt>
 File: dfdp22.png Graphic file (type png)
-
-<use dfdp22.png>
+ <use dfdp22.png>
 Package pdftex.def Info: dfdp22.png used on input line 181.
 (pdftex.def)             Requested size: 489.32692pt x 523.2034pt.
- [7 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/zakupLekow2.PNG> <C
-:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/dfdp21.png>] <ERD.png, id
-=54, 619.56468pt x 576.65437pt>
+ [10 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/dfdp21.png>]
+<ERD.png, id=61, 619.56468pt x 576.65437pt>
 File: ERD.png Graphic file (type png)
  <use ERD.png>
 Package pdftex.def Info: ERD.png used on input line 188.
 (pdftex.def)             Requested size: 619.56316pt x 576.65295pt.
- [8 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/dfdp22.png>]
-<opisERD.pdf, id=58, 597.55246pt x 845.07718pt>
-File: opisERD.pdf Graphic file (type pdf)
- <use opisERD.pdf>
-Package pdftex.def Info: opisERD.pdf used on input line 192.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: opisERD.pdf Graphic file (type pdf)
+ [11 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/dfdp22.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 193--201
 
-<use opisERD.pdf>
-Package pdftex.def Info: opisERD.pdf used on input line 192.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- <opisERD.pdf, id=61, page=1, 597.55246pt x 845.07718pt>
-File: opisERD.pdf Graphic file (type pdf)
+ []
 
-<use opisERD.pdf, page 1>
-Package pdftex.def Info: opisERD.pdf, page1 used on input line 192.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: opisERD.pdf Graphic file (type pdf)
- <use opisERD.pdf, page 1>
-Package pdftex.def Info: opisERD.pdf, page1 used on input line 192.
-(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [9 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/ERD.png>] [10]
-File: opisERD.pdf Graphic file (type pdf)
- <use opisERD.pdf, page 1>
-Package pdftex.def Info: opisERD.pdf, page1 used on input line 192.
-(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-File: opisERD.pdf Graphic file (type pdf)
+[12 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/ERD.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 202--211
 
-<use opisERD.pdf, page 1>
-Package pdftex.def Info: opisERD.pdf, page1 used on input line 192.
-(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-File: opisERD.pdf Graphic file (type pdf)
- <use opisERD.pdf, page 1>
-Package pdftex.def Info: opisERD.pdf, page1 used on input line 192.
-(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [11 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/opisERD.pdf>]
-<opisERD.pdf, id=88, page=2, 597.55246pt x 845.07718pt>
-File: opisERD.pdf Graphic file (type pdf)
+ []
 
-<use opisERD.pdf, page 2>
-Package pdftex.def Info: opisERD.pdf, page2 used on input line 192.
-(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-File: opisERD.pdf Graphic file (type pdf)
- <use opisERD.pdf, page 2>
-Package pdftex.def Info: opisERD.pdf, page2 used on input line 192.
-(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-File: opisERD.pdf Graphic file (type pdf)
- <use opisERD.pdf, page 2>
-Package pdftex.def Info: opisERD.pdf, page2 used on input line 192.
-(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 
-[12 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/opisERD.pdf>]
-<opisERD.pdf, id=94, page=3, 597.55246pt x 845.07718pt>
-File: opisERD.pdf Graphic file (type pdf)
+Underfull \hbox (badness 10000) in paragraph at lines 212--221
 
-<use opisERD.pdf, page 3>
-Package pdftex.def Info: opisERD.pdf, page3 used on input line 192.
-(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-File: opisERD.pdf Graphic file (type pdf)
- <use opisERD.pdf, page 3>
-Package pdftex.def Info: opisERD.pdf, page3 used on input line 192.
-(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-File: opisERD.pdf Graphic file (type pdf)
- <use opisERD.pdf, page 3>
-Package pdftex.def Info: opisERD.pdf, page3 used on input line 192.
-(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+ []
 
-[13 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/opisERD.pdf>]
-<STDlek.jpg, id=99, 459.96844pt x 290.58563pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--230
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 231--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--284
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 285--294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--317
+
+ []
+
+<STDlek.jpg, id=75, 459.96844pt x 290.58563pt>
 File: STDlek.jpg Graphic file (type jpg)
  <use STDlek.jpg>
-Package pdftex.def Info: STDlek.jpg used on input line 196.
+Package pdftex.def Info: STDlek.jpg used on input line 321.
 (pdftex.def)             Requested size: 459.96732pt x 290.58492pt.
 
-<STDraport.jpg, id=100, 459.96844pt x 240.9pt>
+<STDraport.jpg, id=76, 459.96844pt x 240.9pt>
 File: STDraport.jpg Graphic file (type jpg)
  <use STDraport.jpg>
-Package pdftex.def Info: STDraport.jpg used on input line 200.
+Package pdftex.def Info: STDraport.jpg used on input line 325.
 (pdftex.def)             Requested size: 459.96732pt x 240.8994pt.
-
-<STDmagazyn.png, id=101, 343.2825pt x 321.45094pt>
+ [15]
+<STDmagazyn.png, id=80, 343.2825pt x 321.45094pt>
 File: STDmagazyn.png Graphic file (type png)
  <use STDmagazyn.png>
-Package pdftex.def Info: STDmagazyn.png used on input line 205.
+Package pdftex.def Info: STDmagazyn.png used on input line 330.
 (pdftex.def)             Requested size: 343.28165pt x 321.45015pt.
 
-<STDzamowienie2.jpg, id=102, 341.02406pt x 390.70969pt>
+<STDzamowienie2.jpg, id=81, 341.02406pt x 390.70969pt>
 File: STDzamowienie2.jpg Graphic file (type jpg)
 
 <use STDzamowienie2.jpg>
-Package pdftex.def Info: STDzamowienie2.jpg used on input line 209.
+Package pdftex.def Info: STDzamowienie2.jpg used on input line 334.
 (pdftex.def)             Requested size: 341.02322pt x 390.70872pt.
- [14 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDlek.jpg> <C:/Us
-ers/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDraport.jpg>] [15 <C:/Users
+ [16 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDlek.jpg> <C:/Us
+ers/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDraport.jpg>] [17 <C:/Users
 /Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDmagazyn.png>] <STDzakup.png, 
-id=109, 444.15938pt x 467.49657pt>
+id=88, 444.15938pt x 467.49657pt>
 File: STDzakup.png Graphic file (type png)
  <use STDzakup.png>
-Package pdftex.def Info: STDzakup.png used on input line 214.
+Package pdftex.def Info: STDzakup.png used on input line 339.
 (pdftex.def)             Requested size: 444.15828pt x 467.49542pt.
 
-[16 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDzamowienie2.jpg>
-] [17 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDzakup.png>]
+[18 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDzamowienie2.jpg>
+] [19 <C:/Users/Dylek/Documents/GitHub/AaaApteka/dokumentacja/STDzakup.png>]
 (C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -731,13 +728,13 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 3724 strings out of 493921
- 48880 string characters out of 3147282
- 110713 words of memory out of 3000000
- 6917 multiletter control sequences out of 15000+200000
+ 3709 strings out of 493921
+ 48622 string characters out of 3147282
+ 114713 words of memory out of 3000000
+ 6904 multiletter control sequences out of 15000+200000
  16677 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 39i,18n,43p,327b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,7n,39p,327b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecbx1200.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\ecrm1095.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
@@ -751,9 +748,9 @@ pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \eccc1440.pk> <C:\Users\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
 \ec\dpi600\eccc1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb>
-Output written on dokumentacja.pdf (18 pages, 741089 bytes).
+Output written on dokumentacja.pdf (20 pages, 542612 bytes).
 PDF statistics:
- 471 PDF objects out of 1000 (max. 8388607)
+ 455 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

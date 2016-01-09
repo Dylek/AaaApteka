@@ -158,19 +158,19 @@ Paweł \textsc{Ogorzały} \\
 		\includegraphics[scale=0.7]{dfdpoziom1.PNG} 
 	
 	\subsection{Diagram DFD - poziom 1 Kontrola magazynu}
-		\includegraphics[scale=0.9]{kontrolaMagazynu.PNG} 
+		\includegraphics[scale=1]{kontrolaMagazynu.PNG} 
 		
 	\subsection{Diagram DFD - poziom 1 Zamówienia}
-		\includegraphics[scale=0.9]{zamowienia.PNG} 
+		\includegraphics[scale=1]{zamowienia2.PNG} 
 		
 	\subsection{Diagram DFD - poziom 1 Zarządzanie pracownikami}
-		\includegraphics[scale=0.6]{zarzadzaniePracownikami.PNG} 
+		\includegraphics[scale=1]{zarzadzaniePracownikami2.PNG} 
 		
 	\subsection{Diagram DFD - poziom 1 Tworzenie raportu}
-		\includegraphics[scale=0.6]{tworzenieRaportu.PNG} 
+		\includegraphics[scale=1]{tworzenieRaportu.PNG} 
 		
 	\subsection{Diagram DFD - poziom 1 Zakup leków}
-		\includegraphics[scale=0.6]{zakupLekow2.PNG} 	
+		\includegraphics[scale=1]{zakupLekow2.PNG} 	
 		\subsubsection{Poziom 2- Zakup leków- płatność gotówką}
 			\begin{figure}[H]
 			\centerline{\includegraphics[scale=1]{dfdp21.png}}
@@ -189,8 +189,133 @@ Paweł \textsc{Ogorzały} \\
 			\caption{Diagram ERD apteki}
 			\end{figure}
 	\subsection{Opis atrybutów encji}
-	\includepdf[pages=-]{opisERD.pdf}
+	%\includepdf[pages=-]{opisERD.pdf}
+ Klient\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa  atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_klienta	& Integer	& Tak \\ \hline
+Imie & 	String	& Nie \\ \hline
+Nazwisko & String &	Nie \\ \hline
+PESEL 	& 	Integer	& Nie \\ \hline
+\end{tabular}\\[1cm]
+
+Zamówienie\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa  atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_zamówienia	 &Integer	& Tak \\ \hline
+Id\_leku &	Integer	& Tak\\ \hline
+Ilość	& Integer	& Tak\\ \hline
+Id\_pracownika &	Integer	& Tak\\ \hline
+Id\_klienta &	Integer &	Tak\\ \hline
+\end{tabular}\\[1cm]
 	
+Dowód sprzedaży\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa   atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_sprzedaży	& Integer &	Tak\\ \hline
+Id\_leku &	Integer	& Tak\\ \hline
+Kwota	& Double &	Tak\\ \hline
+Data\_wystawienia	& Date	& Tak\\ \hline
+Id\_zamówienia	& Integer	& Tak\\ \hline
+\end{tabular}\\[1cm]
+
+Recepta\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa   atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_recepty &	Integer	& Tak\\ \hline
+Id\_klienta	& Integer	 &Tak\\ \hline
+Data\_wystawienia& 	Date	 &Tak\\ \hline
+Lekarz &	String &	Tak\\ \hline
+\end{tabular}\\[1cm]	
+\newpage
+Raport\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa   atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_raportu	& Integer	& Tak\\ \hline
+Id\_recepty	& Integer	& Tak\\ \hline
+Id\_pracownika	& Integer	& Tak\\ \hline
+\end{tabular}\\[1cm]	
+
+Pracownik \\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa   atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_pracownika	& Integer	& TAk\\ \hline
+Imię	& String	& Tak\\ \hline
+Nazwisko	& String	& Tak\\ \hline
+Pensja	& Integer	& Nie\\ \hline
+\end{tabular}\\[1cm]	
+
+Kierownik (dziedziczy po Pracownik)\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa  atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_pracownika	& Integer	& TAk\\ \hline
+Imię	& String	& Tak\\ \hline
+Nazwisko	& String	& Tak\\ \hline
+Pensja	& Integer	& Nie\\ \hline
+\end{tabular}\\[1cm]	
+
+Magazynier (dziedziczy po Pracownik)\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa  atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_pracownika	& Integer	& TAk\\ \hline
+Imię	& String	& Tak\\ \hline
+Nazwisko	& String	& Tak\\ \hline
+Pensja	& Integer	& Nie\\ \hline
+\end{tabular}\\[1cm]	
+
+Farmaceuta (dziedziczy po Pracownik)\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa  atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_pracownika	& Integer	& TAk\\ \hline
+Imię	& String	& Tak\\ \hline
+Nazwisko	& String	& Tak\\ \hline
+Pensja	& String	& Nie\\ \hline
+\end{tabular}\\[1cm]
+
+Lek\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa  atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_leku	& Integer	&Tak\\ \hline
+Cena	&Double	&Nie\\ \hline
+Data\_ważności	&Date	&Tak\\ \hline
+Czy\_na\_recepte &	Boolean	&Tak\\ \hline
+Nazwa\_leku	&String	&Tak\\ \hline
+\end{tabular}\\[1cm]	
+
+NFZ\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa  atrybutu	& Typ Danych	& Wymagany \\ \hline
+Nr\_odzdziału	&Integer	&Tak\\ \hline
+Adres	&String&	Tak\\ \hline
+Nazwa	&String&	Tak\\ \hline
+Fax	&Integer&	Nie\\ \hline
+Id\_raportu	&Integer	&Tak\\ \hline
+\end{tabular}\\[1cm]	
+
+Zamówienie hurtownia\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa  atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_zamówienia	&Integer	&Tak\\ \hline
+Id\_leku	&Integer	&Tak\\ \hline
+Ilość	&Integer	&Tak\\ \hline
+Zaakceptowane	&Boolean	&Tak\\ \hline
+\end{tabular}\\[1cm]	
+
+Hurtownia\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa   atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_hurtowni &	Integer	&Tak\\ \hline
+Adres&	String&	Tak\\ \hline
+\end{tabular}\\[1cm]	
+
+Magazyn leków\\
+\begin{tabular}{|l|l|l|} \hline
+Nazwa  atrybutu	& Typ Danych	& Wymagany \\ \hline
+Id\_leku	&Integer	&Tak\\ \hline
+Id\_pracownika	&Integer	&Tak\\ \hline
+\end{tabular}\\[1cm]	
+
+
 	\section{Model dynamiki systemu Diagramy STD}
 	\begin{figure}[H]
 \centerline{\includegraphics[scale=1]{STDlek.jpg}}
