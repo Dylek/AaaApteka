@@ -3,14 +3,15 @@
 \contentsline {section}{\numberline {2}Lista obiekt\IeC {\'o}w zewn\IeC {\k e}trznych}{2}
 \contentsline {section}{\numberline {3}Lista zdarze\IeC {\'n}}{2}
 \contentsline {section}{\numberline {4}Diagramy kontekstowy}{3}
-\contentsline {section}{\numberline {5}Diagram DFD-poziom 0}{4}
-\contentsline {subsection}{\numberline {5.1}Diagram DFD - poziom 1 Kontrola magazynu}{5}
-\contentsline {subsection}{\numberline {5.2}Diagram DFD - poziom 1 Zam\IeC {\'o}wienia}{6}
-\contentsline {subsection}{\numberline {5.3}Diagram DFD - poziom 1 Zarz\IeC {\k a}dzanie pracownikami}{7}
-\contentsline {subsection}{\numberline {5.4}Diagram DFD - poziom 1 Tworzenie raportu}{8}
-\contentsline {subsection}{\numberline {5.5}Diagram DFD - poziom 1 Zakup lek\IeC {\'o}w}{9}
-\contentsline {subsubsection}{\numberline {5.5.1}Poziom 2- Zakup lek\IeC {\'o}w- p\IeC {\l }atno\IeC {\'s}\IeC {\'c} got\IeC {\'o}wk\IeC {\k a}}{10}
-\contentsline {subsubsection}{\numberline {5.5.2}Poziom 2- Zakup lek\IeC {\'o}w- p\IeC {\l }atno\IeC {\'s}\IeC {\'c} kart\IeC {\k a}}{11}
+\contentsline {section}{\numberline {5}Diagramy DFD}{4}
+\contentsline {subsection}{\numberline {5.1}Diagram DFD-poziom 0}{4}
+\contentsline {subsection}{\numberline {5.2}Diagram DFD - poziom 1 Zakup lek\IeC {\'o}w}{5}
+\contentsline {subsubsection}{\numberline {5.2.1}Poziom 2- Zakup lek\IeC {\'o}w- p\IeC {\l }atno\IeC {\'s}\IeC {\'c} got\IeC {\'o}wk\IeC {\k a}}{6}
+\contentsline {subsubsection}{\numberline {5.2.2}Poziom 2- Zakup lek\IeC {\'o}w- p\IeC {\l }atno\IeC {\'s}\IeC {\'c} kart\IeC {\k a}}{7}
+\contentsline {subsection}{\numberline {5.3}Diagram DFD - poziom 1 Kontrola magazynu}{8}
+\contentsline {subsection}{\numberline {5.4}Diagram DFD - poziom 1 Zam\IeC {\'o}wienia}{9}
+\contentsline {subsection}{\numberline {5.5}Diagram DFD - poziom 1 Zarz\IeC {\k a}dzanie pracownikami}{10}
+\contentsline {subsection}{\numberline {5.6}Diagram DFD - poziom 1 Tworzenie raportu}{11}
 \contentsline {section}{\numberline {6}Model danych diagram ERD}{12}
 \contentsline {subsection}{\numberline {6.1}Opis atrybut\IeC {\'o}w encji}{13}
 \contentsline {section}{\numberline {7}Model dynamiki systemu Diagramy STD}{16}
