@@ -343,15 +343,15 @@ Id\_pracownika	&Integer	&Tak\\ \hline
 	\textbf{C} \newline \newline
 	\noindent
 	cena = {cyfra} + waluta \newline
-	cyfra = ["0" | "1" \textpipe "2" \textpipe "3" \textpipe "4" \textpipe "5" \textpipe "6" \textpipe "7" \textpipe "8" \textpipe "9"] \newline \newline
+	cyfra = ["0" $|$"1" $|$ "2" $|$ "3" $|$ "4" $|$ "5" $|$ "6" $|$ "7" $|$ "8" $|$ "9"] \newline \newline
 	\textbf{D} \newline \newline
 	\noindent
 	dane do raportu = {dowód sprzedaży} \newline
-	dane farmaceuty = \at id\_pracownika + imię + nazwisko \newline
+	dane farmaceuty = @ id\_pracownika + imię + nazwisko \newline
 	dane karty = {cyfra} \newline
 	dane przelewu = {cyfra} \newline
 	dostarczone leki = "patrz:nowe zamówienie" \newline
-	dowód sprzedaży = \at id\_sprzedaży + id\_leku + kwota + data\_wystawienia + id\_zamówienia \newline \newline
+	dowód sprzedaży = @ id\_sprzedaży + id\_leku + kwota + data\_wystawienia + id\_zamówienia \newline \newline
 	\textbf{I} \newline \newline
 	\noindent
 	informacja o stanie leku = "patrz:lek" \newline
@@ -363,7 +363,7 @@ Id\_pracownika	&Integer	&Tak\\ \hline
 	kwota zapłaty = "patrz:cena" \newline \newline
 	\textbf{L} \newline \newline
 	\noindent
-	lek = \at id\_leku + cena + data\_ważności + czy\_na\_receptę + nazwa\_leku \newline
+	lek = @ id\_leku + cena + data\_ważności + czy\_na\_receptę + nazwa\_leku \newline
 	lista awansowanych = "patrz:lista pracowników" \newline
 	lista do usunięcia = "patrz:lista pracowników" \newline
 	lista nowo zatrudnionych = "patrz:lista pracowników" \newline
@@ -387,28 +387,28 @@ Id\_pracownika	&Integer	&Tak\\ \hline
 	potwierdzenie = "patrz:rodzaj potwierdzenia" \newline
 	potwierdzenie dokonania płatności = "patrz:dowód płatności" \newline
 	potwierdzenie dokonania przelewu = "Potwierdzono" \newline
-	pracownik = \at id\_pracownika + imię + nazwisko + (pensja) \newline \newline
+	pracownik = @ id\_pracownika + imię + nazwisko + (pensja) \newline \newline
 	\textbf{R} \newline \newline
 	\noindent	
-	raport = \at id\_raportu + id\_recepty + id\_pracownika \newline
-	recepta = \at id\_recepty + id\_klienta + data\_wystawienia + lekarz \newline
-	rodzaj płatności = ["Gotówka" \textpipe "Karta"] \newline
-	rodzaj potwierdzenia = ["Rachunek" \textpipe "Faktura"] \newline \newline
+	raport = @ id\_raportu + id\_recepty + id\_pracownika \newline
+	recepta = @ id\_recepty + id\_klienta + data\_wystawienia + lekarz \newline
+	rodzaj płatności = ["Gotówka" $|$ "Karta"] \newline
+	rodzaj potwierdzenia = ["Rachunek" $|$ "Faktura"] \newline \newline
 	\textbf{S} \newline \newline
 	\noindent
-	stanowisko = ["Magazynier" \textpipe "Farmaceuta" \textpipe "Kierownik"] \newline
+	stanowisko = ["Magazynier" $|$ "Farmaceuta" $|$ "Kierownik"] \newline
 	sumaryczna cena leków = "patrz:cena" \newline \newline
 	\textbf{W} \newline \newline
 	\noindent
-	waluta = ["Euro \textpipe "PLN"] \newline
+	waluta = ["{E}uro"$|$ "PLN"] \newline
 	wybrana forma płatności = "patrz:rodzaj płatności" \newline
 	wybrana forma potwierdzenia = "patrz:rodzaj potwierdzenia" \newline
 	wybrane leki = {lek} \newline
-	wybrany oddział = \at nr\_oddziału \newline \newline
+	wybrany oddział = @ nr\_oddziału \newline \newline
 	\textbf{Z} \newline \newline
 	\noindent	
 	zapytanie o stan leku = "patrz:lek" \newline
-	zrezygnowanie z kupna = ["Tak" \textpipe "Nie"] \newline \newline
+	zrezygnowanie z kupna = ["Tak" $|$ "Nie"] \newline \newline
 	
 	\section{Specyfikacja procesów PSPEC}
 
