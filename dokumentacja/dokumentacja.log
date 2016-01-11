@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.6)  10 JAN 2016 23:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.6)  11 JAN 2016 13:26
 entering extended mode
 **dokumentacja.tex
 (C:\Users\Dylek\Documents\GitHub\AaaApteka\dokumentacja\dokumentacja.tex
@@ -39,7 +39,7 @@ Package: babel 2008/07/08 v3.8m The Babel package
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\polish.ldf"
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-polish\polish.ldf"
 Language: polish 2005/03/31 v1.2l Polish support from the babel system
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
@@ -960,8 +960,8 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4069 strings out of 493921
- 54585 string characters out of 3147282
+ 4070 strings out of 493921
+ 54646 string characters out of 3147282
  122147 words of memory out of 3000000
  7260 multiletter control sequences out of 15000+200000
  16677 words of font info for 38 fonts, out of 3000000 for 9000
@@ -981,7 +981,7 @@ pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1440.pk> <C:\User
 s\Dylek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1728.pk
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/pl/plsy10.pfb>
-Output written on dokumentacja.pdf (26 pages, 576309 bytes).
+Output written on dokumentacja.pdf (26 pages, 576261 bytes).
 PDF statistics:
  497 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
